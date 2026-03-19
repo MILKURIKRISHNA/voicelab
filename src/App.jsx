@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 
-const API = "http://localhost:8000";
+const API = "https://voicelab-lyo2.onrender.com";
 const BARS = 36;
 
 /* ── Waveform ── */
